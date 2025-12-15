@@ -1,0 +1,20 @@
+[
+  {
+    "_id": {
+      "$oid": "693ff9fc13a415d228f089af"
+    },
+    "lastname": "julien",
+    "firstname": "courbet",
+    "age": 35,
+    "history": [
+      {
+        "disease": "rhino",
+        "treatment": "paracetamol"
+      },
+      {
+        "disease": "otite",
+        "treatment": "paracetamol"
+      }
+    ]
+  }
+]
